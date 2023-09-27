@@ -1,6 +1,6 @@
 import CarPark
 
-print("*******WLECOME TO CAR PARK!*******")
+print("*******WELCOME TO CAR PARK!*******")
 
 while True:
 
